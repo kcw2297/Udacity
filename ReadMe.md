@@ -1,6 +1,5 @@
 ## Udacity 온라인 부트캠프
-- Algorithm : 자료구조/알고리즘
-- Front : Html, Css, Js
+- **Front** : Html, Css, Js
 - **Python** : 데이터 분석 및 flask
 - **SQL** : Postgresql
 - Intro : Html, Css, Python
