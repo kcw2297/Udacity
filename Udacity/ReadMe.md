@@ -18,8 +18,25 @@ Python, flask
 
 # SQL
 
-- 삼림 벌채 데이터 분석
-- 데이터 스키마 개선 및 데이터 migration
+#### [프로젝트]
+
+- 탈산린화 조사
+- 서비스 회사의 스키마 분석, 개선, 데이터 이전
+
+#### [기술스택]
+
+PostgreSQL
+
+#### [배운점]
+
+- Basic SQL, JOIN
+- Aggregation을 위해 Subquery
+- Data Cleaning
+- Window Function
+- 데이터 정규화
+- Data ManiPulation Language, Data Definition Language
+- Constraints
+- Index
 
 # Data Engineer
 
