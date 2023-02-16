@@ -40,7 +40,21 @@ PostgreSQL
 
 # Data Engineer
 
-- song data FACT table로 전환
+#### [프로젝트]
+
+- Data Modeling with PostgreSQL
+- Data Warehouse for Song Analysis
+
+#### [기술스택]
+
+PostgreSQL, Python, Pandas, AWS(S3, Redshift)
+
+#### [배운점]
+
+- Data Modeling
+  - ACID, Normalize vs Denormalize
+  - OLAP vs OLTP, Star&Snowflake Schemas
+- AWS S3, Redshift
 
 # Frontend
 
